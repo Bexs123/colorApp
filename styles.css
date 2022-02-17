@@ -1,0 +1,27 @@
+#button{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    margin: 50px auto 50px;
+    font-size: 25px;
+    color: #dcdcdc;
+    font-family: monospace;
+    background: darkviolet;
+    border-radius: 5px;
+    border-style: none;
+    display: block;
+}
+
+#canvas{
+    background-color: white;
+    color: #dcdcdc;
+    font-family: monospace;
+    font-size: 25px;
+    width: 600px;
+    height: 500px;
+    margin: 50px auto 50px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
